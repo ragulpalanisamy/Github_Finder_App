@@ -12,6 +12,9 @@
    * HTML
    * CSS
    * JavaScript
+   * React
+   * TypeScript
+   * TailwindCss
    * GitHub REST API
 
 ## Usage
