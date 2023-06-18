@@ -21,12 +21,12 @@
 ## Setup
 
    * Clone the repository to your local machine.
-   * Open the index.html file in your web browser.
+   * Open the index.tsx file in your web browser.
    * Begin searching for GitHub users!
 
 ## Acknowledgements
 
-`This project was created as part of a coding challenge. Special thanks to OpenAI for providing the training data for the ChatGPT language model used to create this application.`
+`This project was created as part of a coding challenge. I developed this project for my knoweldge building. Through this project I have learned with connecting the Api using Promises (Asyn/Await).` 
 
 ## Contributing
 
