@@ -81,6 +81,9 @@ function GithubFinder() {
   };
   return (
     <section className="contain">
+      <div>
+        <h1><a href="/slack">Get in touch</a></h1>
+      </div>
       <div className="container">
         <h1>Github Finder</h1>
         <div className="search-container">
